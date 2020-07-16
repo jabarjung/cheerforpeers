@@ -17,4 +17,4 @@ It's a web tool to send a beautiful email message to say thanks to your amazing 
 
 ## Author
 
-* **JabarJung Sandhu**
+* **Jabarjung Sandhu**
